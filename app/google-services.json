@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550548946579",
+    "firebase_url": "https://mlkitdemo-570ff.firebaseio.com",
+    "project_id": "mlkitdemo-570ff",
+    "storage_bucket": "mlkitdemo-570ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550548946579:android:d9ded97e8cf4498e",
+        "android_client_info": {
+          "package_name": "com.inexture.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550548946579-097pfi3k1sbkk86tnobn33ub77aca40s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inexture.barcodescanner",
+            "certificate_hash": "ebc7622b100d17d0d3f2af40f9a5c030d1765ba1"
+          }
+        },
+        {
+          "client_id": "550548946579-mspodjpovtbpfi4mj6g7fpohdt0j6r7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsOOlpwOdD3GIYsKHOxVmqHNwW1077si4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550548946579-mspodjpovtbpfi4mj6g7fpohdt0j6r7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
